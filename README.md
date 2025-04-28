@@ -1,3 +1,4 @@
+WATCH THE 3 digit Pin Video
 This project is a Python-based brute-force tool designed to guess a PIN code for an HTTP application running on a specific port. It automates multiple PIN attempts and checks for a successful response from the server. The main challenge is identifying the correct server address, port, and required request parameters.
 
 How to Run
